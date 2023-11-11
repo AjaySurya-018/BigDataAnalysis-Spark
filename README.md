@@ -6,8 +6,8 @@
 ![image](https://github.com/AjaySurya-018/BigDataAnalysis-Spark/assets/141923850/c3c4388e-1722-41ae-9b43-226067b7603e)
 
 ## Filters
-*BestPerformanceStudents - Students with >95 in each subject
-*AllStudentsfilter 
+* BestPerformanceStudents - Students with >95 in each subject
+* AllStudentsfilter 
 
 ## Analysis performed on the dataset
 *Calculating the percentage of all entries in each column
