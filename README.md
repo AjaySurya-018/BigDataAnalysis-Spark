@@ -2,4 +2,8 @@
 ## Analysis of Students performance uisng Apache Spark Framework
 ![image](https://github.com/AjaySurya-018/BigDataAnalysis-Spark/assets/141923850/fc6644da-3c5a-4f2a-9e79-2aebccda4e97)
 
+### Preview of the dataset
+![image](https://github.com/AjaySurya-018/BigDataAnalysis-Spark/assets/141923850/c3c4388e-1722-41ae-9b43-226067b7603e)
+
+
 
