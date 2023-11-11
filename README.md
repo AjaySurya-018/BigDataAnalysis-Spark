@@ -10,17 +10,17 @@
 * AllStudentsfilter 
 
 ## Analysis performed on the dataset
-*Calculating the percentage of all entries in each column
-*Gender and Ethnicity percent of best performance students
-*Impact of Parents Education level on Students
-*Ethnic group with highly educated parents
-*Overall percentage of the best performance students in the test
-*Overall statistics of the Data
-*Performance of each Ethnic group
-*Analysis on gender count based on Lunch type
-*Analysis on performance based on Exam preparation course
-*Analysis on performance based on Exam preparation course
-*Analysis on average scores based on gender
+* Calculating the percentage of all entries in each column
+* Gender and Ethnicity percent of best performance students
+* Impact of Parents Education level on Students
+* Ethnic group with highly educated parents
+* Overall percentage of the best performance students in the test
+* Overall statistics of the Data
+* Performance of each Ethnic group
+* Analysis on gender count based on Lunch type
+* Analysis on performance based on Exam preparation course
+* Analysis on performance based on Exam preparation course
+* Analysis on average scores based on gender
 
 
 
