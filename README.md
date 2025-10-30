@@ -1,6 +1,5 @@
-# Student Academic Performance Analysis using Apache Spark
+## Student Academic Performance Analysis using Apache Spark
 
----
 ## 1. Problem Statement & Motivation
 Understanding how contextual variables (nutrition proxy via lunch type, parental educational attainment, structured preparation) correlate with standardized performance aids:
 * Targeted academic interventions
